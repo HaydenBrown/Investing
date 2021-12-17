@@ -1,2 +1,9 @@
-# Thesis Figures
-Here is the data and code used in my masters thesis. Data is in data7 and all code is in ThesisPicturesAR. Further descriptions about each can be found within. 
+# Data and Code for Figures
+Masters Thesis: 
+  Data is in data7
+  Code is in ThesisPicturesAR
+
+Manuscript: Dollar Cost Averaging Returns Estimation
+  Data is in data7
+  Code is in dcaAdvancesPics
+
