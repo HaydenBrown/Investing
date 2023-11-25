@@ -17,3 +17,8 @@ Withdrawal Success Estimation:
 Long-Term Returns Estimation of Leveraged Indexes and ETFs:
 
   Code is in leverageMV.
+
+Withdrawal Success Optimization:
+
+  Data is in data7.
+  Code is in optimalWithdrawals.
