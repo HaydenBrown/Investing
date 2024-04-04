@@ -1,29 +1,29 @@
 # Data and Code for Figures
-Masters Thesis: 
+### **Masters Thesis:** 
 
   Data is in data7.
   Code is in ThesisPicturesAR.
 
-Dollar Cost Averaging Returns Estimation:
+### **Dollar Cost Averaging Returns Estimation:**
 
   Data is in data7.
   Code is in dcaAdvancesPics.
 
-Withdrawal Success Estimation:
+### **Withdrawal Success Estimation:**
 
   Data is in data7.
   Code is in dcaStablePics.
   
-Long-Term Returns Estimation of Leveraged Indexes and ETFs:
+### **Long-Term Returns Estimation of Leveraged Indexes and ETFs:**
 
   Code is in leverageMV.
 
-Withdrawal Success Optimization:
+### **Withdrawal Success Optimization:**
 
   Data is in data7.
   Code is in optimalWithdrawals.
 
-Withdrawal Success Optimization in a Pooled Annuity Fund:
+### **Withdrawal Success Optimization in a Pooled Annuity Fund:**
 
   Data is in data7.
   Code is in optimalWithdrawalsPooledIndividual.
