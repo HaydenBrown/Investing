@@ -22,3 +22,8 @@ Withdrawal Success Optimization:
 
   Data is in data7.
   Code is in optimalWithdrawals.
+
+Withdrawal Success Optimization in a Pooled Annuity Fund:
+
+  Data is in data7.
+  Code is in optimalWithdrawalsPooledIndividual.
